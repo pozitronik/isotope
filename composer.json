@@ -10,9 +10,9 @@
       "name": "David DeSandro",
       "homepage": "https://isotope.metafizzy.co",
       "role": "developer"
-    },
-    "require": {
-        "desandro/masonry": "dev-master"
     }
-  ]
+  ],
+  "require": {
+     "desandro/masonry": "dev-master"
+  }
 }
