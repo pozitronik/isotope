@@ -1,6 +1,5 @@
 {
-  "name": "metafizzy/isotope
-",
+  "name": "metafizzy/isotope",
   "description": "Filter and sort magical layouts",
   "type": "component",
   "keywords": ["filter","sort","masonry","jquery-plugin"],
@@ -14,6 +13,6 @@
     },
     "require": {
         "desandro/masonry": "dev-master"
-    },
+    }
   ]
 }
